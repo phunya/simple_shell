@@ -1,7 +1,7 @@
 #include "shell.h"
 
 /**
- * _readwrite - reads the input string.
+ * _readwrite - reads the input string..
  *
  * @is_eof: return value of getline function
  * @status: determines if the shell is interactive
