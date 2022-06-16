@@ -3,7 +3,7 @@
 /**
  * is_executable - determines if is an executable
  *
- * @cmd: data structure
+ * @cmd: data structure.
  * Return: 0 if is not an executable, other number if it does
  */
 int is_executable(cmd_t *cmd)
