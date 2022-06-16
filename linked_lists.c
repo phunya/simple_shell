@@ -7,7 +7,7 @@
  * @head: head of the linked list.
  * @sep: separator to add.
  * Return: NULL on failure and the address
- *         of the head on success.
+ *         of the head on success..
  */
 sep_t *add_sep_node_end(sep_t **head, char sep)
 {
