@@ -5,7 +5,7 @@
  * @cmd: struct contain shell global vars
  * @av: argv
  *
- * Return: no return
+ * Return: no return.
  */
 void init_cmd(cmd_t *cmd, char **av)
 {
