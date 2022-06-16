@@ -4,7 +4,7 @@
  * _env - prints the evironment variables
  *
  * @cmd: global struct variable.
- * Return: EXIT_SUCCESS on success.
+ * Return: EXIT_SUCCESS on success..
  */
 int _env(cmd_t *cmd)
 {
