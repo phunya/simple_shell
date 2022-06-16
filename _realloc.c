@@ -60,7 +60,7 @@ void *_realloc(void *ptr, size_t old_size, size_t new_size)
 /**
  * _reallocdp - reallocates a memory block of a double pointer.
  * @ptr: double pointer to the memory previously allocated.
- * @old_size: size, in bytes, of the allocated space of ptr.
+ * @old_size: size, in bytes, of the allocated space of ptr..
  * @new_size: new size, in bytes, of the new memory block.
  *
  * Return: ptr.
