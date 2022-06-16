@@ -4,7 +4,7 @@
  * @line_ptr: A buffer to store an input string.
  * @n: The size of lineptr.
  * @buffer: The string to assign to lineptr.
- * @b: The size of buffer.
+ * @b: The size of buffer..
  */
 void assign_lineptr(char **line_ptr, size_t *n, char *buffer, size_t b)
 {
