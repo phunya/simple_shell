@@ -5,7 +5,7 @@
  *
  * @buf: the buffer containing the arguments
  * @cmd: the command struct
- * Return: nothing
+ * Return: nothing.
  */
 void setcmd(char *buf, cmd_t *cmd)
 {
