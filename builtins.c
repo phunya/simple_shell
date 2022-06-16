@@ -3,7 +3,7 @@
 /**
  * c_dir - changes current directory
  *
- * @cmd: data relevant
+ * @cmd: data relevant.
  * Return: 1 on success
  */
 int c_dir(cmd_t *cmd)
