@@ -6,7 +6,7 @@
  * @ac: Argument count
  * @av: Argument vector
  *
- * Return: the (int)value of status.
+ * Return: the (int)value of status..
  */
 int main(int ac, char **av)
 {
