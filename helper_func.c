@@ -6,7 +6,7 @@
 /**
  * open_console - opens the console
  *
- * Return: nothing
+ * Return: nothing.
  */
 void open_console(void)
 {
