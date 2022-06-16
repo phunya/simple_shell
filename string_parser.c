@@ -4,7 +4,7 @@
  * get_toks - get tokens from input
  *
  * @args: input string.
- * @delimiter: delimiter.
+ * @delimiter: delimiter..
  * Return: a vector of the splited input strings.
  */
 char **get_toks(char *args, char *delimiter)
