@@ -6,7 +6,7 @@
  * @dir: directory of the command to execute
  * @input: the input string
  * @cmd: the command struct
- * Return: 1 on success and 0 on failure
+ * Return: 1 on success and 0 on failure.
  */
 void runcmd(char *dir, char **input, cmd_t *cmd)
 {
