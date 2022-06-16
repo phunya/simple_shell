@@ -5,7 +5,7 @@
  *     associated function
  *
  * @input: the input string
- * Return: the function if found
+ * Return: the function if found.
  */
 int (*get_builtin(char *input))(cmd_t *)
 {
