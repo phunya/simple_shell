@@ -3,7 +3,7 @@
 /**
  * cd_home - changes to home directory
  *
- * @cmd: global struct variable
+ * @cmd: global struct variable.
  * Return: EXIT_SUCCESS
  */
 int cd_home(cmd_t *cmd)
