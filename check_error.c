@@ -3,7 +3,7 @@
 /**
  * repeated_char - counts the repetitions of a char
  *
- * @input: input string
+ * @input: input string.
  * @i: index
  * Return: repetitions
  */
