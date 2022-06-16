@@ -144,7 +144,7 @@ char *replaced_input(list_t **head, char *input, char *new_input, int nlen)
  * parse_input - replaces string into variables
  *
  * @input: input string
- * @cmd: data structure
+ * @cmd: data structure.
  * Return: the new string
  */
 char *parse_input(char *input, cmd_t *cmd)
