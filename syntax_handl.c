@@ -3,7 +3,7 @@
 /**
  * handl_comment - parses the input for comment
  *
- * @input: input argument from stdin
+ * @input: input argument from stdin.
  * Return: string without comment
  */
 char *handl_comment(char *input)
