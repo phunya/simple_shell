@@ -4,7 +4,7 @@
  * _strtok - tokenizes a string based on a delimiter
  *
  * @strn: string to operate
- * @delimiter: delimiter
+ * @delimiter: delimiter.
  *
  * Return: pointer to string
  * or NULL if there is no match
