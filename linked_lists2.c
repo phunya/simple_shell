@@ -6,7 +6,7 @@
  * @var_len: length of the variable.
  * @val: value of the variable.
  * @len_val: length of the value.
- * Return: address of the head.
+ * Return: address of the head..
  */
 list_t *add_node_end(list_t **head, int var_len, char *val, int len_val)
 {
