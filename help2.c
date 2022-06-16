@@ -2,7 +2,7 @@
 
 /**
  * aux_help_exit - Help information fot the builint exit
- * Return: no return
+ * Return: no return.
  */
 void aux_help_exit(void)
 {
